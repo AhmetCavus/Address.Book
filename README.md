@@ -4,34 +4,35 @@ An example address book project for a work sample.
 
 ## Getting Started
 
-## Installation
+### Installation
 
     git clone https://github.com/AhmetCavus/Address.Book.git
     cd Address.Book
     npm install
 
-## Test
+### Run
+    
+    npm start
+
+### Test
+
 Windows/Unix/Linux/Mac:
 
     npm test
 
-## Run
-    
-    npm start
-
-## Open
+### Open
 
     http://localhost:8080/questions
 
-## Documentation
+### Documentation
 _(Coming soon)_
 
-## Examples
+### Examples
 _(Coming soon)_
 
-## Release History
+### Release History
 _(Nothing yet)_
 
-## License
+### License
 Copyright (c) 2017 Ahmet Cavus  
 Licensed under the MIT license.
