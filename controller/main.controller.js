@@ -7,6 +7,9 @@ module.exports = {
     questionAction: questionAction
 };
 
+
+// Initialize the address book with the data from the csv file.
+// Then build up the answers with the AddressBookModel.
 addressBook
 .init()
 .then(addresses => {
