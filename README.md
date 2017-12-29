@@ -16,22 +16,11 @@ An example address book project for a work sample.
 
 ### Test
 
-Windows/Unix/Linux/Mac:
-
     npm test
 
 ### Open
 
     http://localhost:8080/questions
-
-### Documentation
-_(Coming soon)_
-
-### Examples
-_(Coming soon)_
-
-### Release History
-_(Nothing yet)_
 
 ### License
 Copyright (c) 2017 Ahmet Cavus  
